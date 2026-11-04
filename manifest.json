@@ -7,6 +7,13 @@
       "sha256": "3879d0b166845b3a1875c12fa2291cac012e610dc4cb31d36270fa7cc5fb8119",
       "size": 43871488,
       "notes": "Cardul Azi arata totalul numerar si totalul card"
+    },
+    "pilot": {
+      "version": "1.4.0",
+      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.4.0/DigirayFiscalSetup-1.4.0.exe",
+      "sha256": "310c47bb86a6bcac3c8cd4b81adc008c593a382d38606cb39e9c26fa24d59cab",
+      "size": 44786031,
+      "notes": "Facturi din bonuri (cautare ANAF, PDF, serie si numerotare, storno) si bon cu CUI"
     }
   }
 }
