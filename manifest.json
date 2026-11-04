@@ -2,11 +2,11 @@
   "product": "BonFiscal",
   "rings": {
     "stable": {
-      "version": "1.3.4",
-      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.3.4/DigirayFiscalSetup-1.3.4.exe",
-      "sha256": "b1d24e025459730921aee5b0c49fef41f1568f057971d502ceda3a3f96d653ae",
-      "size": 43862848,
-      "notes": "Printare pas cu pas (copia ultimului bon merge), fara false intreruperi, fereastra bonului reparata"
+      "version": "1.3.5",
+      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.3.5/DigirayFiscalSetup-1.3.5.exe",
+      "sha256": "324822dac695f2fa46ded27434de723ca41968a587182a9e9e43e28702ac1ee8",
+      "size": 43844089,
+      "notes": "Casa M20 tace cat timp printeaza: se asteapta pana la 15 s inainte de a considera legatura pierduta"
     }
   }
 }
