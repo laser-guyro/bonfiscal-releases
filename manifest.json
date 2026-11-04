@@ -9,11 +9,11 @@
       "notes": "Cardul Azi arata totalul numerar si totalul card"
     },
     "pilot": {
-      "version": "1.4.0",
-      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.4.0/DigirayFiscalSetup-1.4.0.exe",
-      "sha256": "310c47bb86a6bcac3c8cd4b81adc008c593a382d38606cb39e9c26fa24d59cab",
-      "size": 44786031,
-      "notes": "Facturi din bonuri (cautare ANAF, PDF, serie si numerotare, storno) si bon cu CUI"
+      "version": "1.4.1",
+      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.4.1/DigirayFiscalSetup-1.4.1.exe",
+      "sha256": "4eb3e54c82883a2d20b5d18262720e94b15df797ba4dd11b9fd29e4517df11c1",
+      "size": 44778298,
+      "notes": "PDF-urile facturilor au numele SERIE_NR_CASH/CARD/MIXED_DATA; numere fara zerouri in fata"
     }
   }
 }
