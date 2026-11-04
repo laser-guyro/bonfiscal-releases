@@ -2,11 +2,11 @@
   "product": "BonFiscal",
   "rings": {
     "stable": {
-      "version": "1.1.0",
-      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.1.0/BonFiscalSetup-1.1.0.exe",
-      "sha256": "1946adee52288e499427b32beea9948541467d2437af962d819a851985974b4a",
-      "size": 43839662,
-      "notes": "Prima versiune cu fereastra BonFiscal si actualizare automata"
+      "version": "1.2.0",
+      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.2.0/DigirayFiscalSetup-1.2.0.exe",
+      "sha256": "d8618a0b0dbba1e937e632c5901076c25e80355c41b3b65142b5c29348123418",
+      "size": 43864700,
+      "notes": "DigirayFiscal: logo si culorile DigiRay, nume nou (migreaza automat de la BonFiscal)"
     }
   }
 }
