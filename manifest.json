@@ -2,11 +2,11 @@
   "product": "BonFiscal",
   "rings": {
     "stable": {
-      "version": "1.3.2",
-      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.3.2/DigirayFiscalSetup-1.3.2.exe",
-      "sha256": "64e82177c010ac0b140af0bc0bfcf61ac6fb4f1dfb262a6907b5091e20b61e3f",
-      "size": 43868907,
-      "notes": "Etichete fara patrat in spate, starea din antet intreaga, detaliile de la Actualizari vizibile"
+      "version": "1.3.3",
+      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.3.3/DigirayFiscalSetup-1.3.3.exe",
+      "sha256": "9f8f23df4fb6c018e8cabcde274e96e7f4505e421fd6531132ce9c2166dbc7d7",
+      "size": 43860545,
+      "notes": "Repara cod 92: parola operatorului trimisa ca 4 caractere; setare Parola operator casa"
     }
   }
 }
