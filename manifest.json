@@ -2,11 +2,11 @@
   "product": "BonFiscal",
   "rings": {
     "stable": {
-      "version": "1.3.7",
-      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.3.7/DigirayFiscalSetup-1.3.7.exe",
-      "sha256": "3fef0d269916392f5de212c35cb02158a7068788162125d5a597330e65254abc",
-      "size": 43867975,
-      "notes": "Copia foloseste numarul bonului din jurnal (nu raportul X); Copie bon pentru orice bon; verificare anti-dublura si dupa numarul fiscal"
+      "version": "1.3.8",
+      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.3.8/DigirayFiscalSetup-1.3.8.exe",
+      "sha256": "3879d0b166845b3a1875c12fa2291cac012e610dc4cb31d36270fa7cc5fb8119",
+      "size": 43871488,
+      "notes": "Cardul Azi arata totalul numerar si totalul card"
     }
   }
 }
