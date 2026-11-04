@@ -9,11 +9,11 @@
       "notes": "Cardul Azi arata totalul numerar si totalul card"
     },
     "pilot": {
-      "version": "1.4.1",
-      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.4.1/DigirayFiscalSetup-1.4.1.exe",
-      "sha256": "4eb3e54c82883a2d20b5d18262720e94b15df797ba4dd11b9fd29e4517df11c1",
-      "size": 44778298,
-      "notes": "PDF-urile facturilor au numele SERIE_NR_CASH/CARD/MIXED_DATA; numere fara zerouri in fata"
+      "version": "1.4.2",
+      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.4.2/DigirayFiscalSetup-1.4.2.exe",
+      "sha256": "5c42bd3cc207608197c6c3bc87be8d5be44c6abc05fa7d30b7d37edcbcde1e75",
+      "size": 44787702,
+      "notes": "Facturile storno au STORNO pe diagonala, spatiul gol e barat cu Z"
     }
   }
 }
