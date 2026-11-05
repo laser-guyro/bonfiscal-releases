@@ -2,11 +2,11 @@
   "product": "BonFiscal",
   "rings": {
     "stable": {
-      "version": "1.4.5",
-      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.4.5/DigirayFiscalSetup-1.4.5.exe",
-      "sha256": "c34a7becee9fb9ff406fc1a44235fd6f5f3ed2df184c2c10cbc48e6d64b1d5dd",
-      "size": 44798041,
-      "notes": "Potriveste ora casei dupa calculator (banner, buton, meniul iconitei)"
+      "version": "1.4.6",
+      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.4.6/DigirayFiscalSetup-1.4.6.exe",
+      "sha256": "e8d765631f58ca5e6dab38113287b6a809d63e1987e3ba4d77d628939f248f32",
+      "size": 44808621,
+      "notes": "Bon cu CUI: adresa iese in ordine pe M20"
     },
     "pilot": {
       "version": "1.4.6",
