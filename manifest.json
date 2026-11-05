@@ -9,11 +9,11 @@
       "notes": "Bon cu CUI: adresa iese in ordine pe M20"
     },
     "pilot": {
-      "version": "1.4.6",
-      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.4.6/DigirayFiscalSetup-1.4.6.exe",
-      "sha256": "e8d765631f58ca5e6dab38113287b6a809d63e1987e3ba4d77d628939f248f32",
-      "size": 44808621,
-      "notes": "Bon cu CUI: adresa iese in ordine pe M20"
+      "version": "1.5.0",
+      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.5.0/DigirayFiscalSetup-1.5.0.exe",
+      "sha256": "50e33206ad6983b929758b317e78c482b4899f05f13abe725b9c437d3ff62ea9",
+      "size": 44815889,
+      "notes": "Facturile PDF ajung singure în SharePoint-ul contabilității (Facturi → Contabilitate…)"
     }
   }
 }
