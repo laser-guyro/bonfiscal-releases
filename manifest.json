@@ -9,11 +9,11 @@
       "notes": "Cardul Azi arata totalul numerar si totalul card"
     },
     "pilot": {
-      "version": "1.4.4",
-      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.4.4/DigirayFiscalSetup-1.4.4.exe",
-      "sha256": "9497727ea1f6b044bec1e9c2ef79f54abc6d8703ac480969f373be4245aa1e01",
-      "size": 44793022,
-      "notes": "Coloana Factura in lista de bonuri: un clic face factura sau deschide PDF-ul"
+      "version": "1.4.5",
+      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.4.5/DigirayFiscalSetup-1.4.5.exe",
+      "sha256": "c34a7becee9fb9ff406fc1a44235fd6f5f3ed2df184c2c10cbc48e6d64b1d5dd",
+      "size": 44798041,
+      "notes": "Potriveste ora casei dupa calculator (banner, buton, meniul iconitei)"
     }
   }
 }
