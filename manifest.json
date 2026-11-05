@@ -2,11 +2,11 @@
   "product": "BonFiscal",
   "rings": {
     "stable": {
-      "version": "1.3.8",
-      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.3.8/DigirayFiscalSetup-1.3.8.exe",
-      "sha256": "3879d0b166845b3a1875c12fa2291cac012e610dc4cb31d36270fa7cc5fb8119",
-      "size": 43871488,
-      "notes": "Cardul Azi arata totalul numerar si totalul card"
+      "version": "1.4.5",
+      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.4.5/DigirayFiscalSetup-1.4.5.exe",
+      "sha256": "c34a7becee9fb9ff406fc1a44235fd6f5f3ed2df184c2c10cbc48e6d64b1d5dd",
+      "size": 44798041,
+      "notes": "Potriveste ora casei dupa calculator (banner, buton, meniul iconitei)"
     },
     "pilot": {
       "version": "1.4.5",
