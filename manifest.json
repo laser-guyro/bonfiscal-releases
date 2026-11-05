@@ -9,11 +9,11 @@
       "notes": "Cardul Azi arata totalul numerar si totalul card"
     },
     "pilot": {
-      "version": "1.4.2",
-      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.4.2/DigirayFiscalSetup-1.4.2.exe",
-      "sha256": "5c42bd3cc207608197c6c3bc87be8d5be44c6abc05fa7d30b7d37edcbcde1e75",
-      "size": 44787702,
-      "notes": "Facturile storno au STORNO pe diagonala, spatiul gol e barat cu Z"
+      "version": "1.4.3",
+      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.4.3/DigirayFiscalSetup-1.4.3.exe",
+      "sha256": "205ce61bdd06464c62fe986b089a680f17be1cfac291de66c72ba8cc065a7629",
+      "size": 44805267,
+      "notes": "Cautare in bonuri (numar, suma, serviciu, client, factura); copie si factura pentru bonuri vechi"
     }
   }
 }
