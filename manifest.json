@@ -9,11 +9,11 @@
       "notes": "Bon cu CUI: adresa iese in ordine pe M20"
     },
     "pilot": {
-      "version": "1.5.0",
-      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.5.0/DigirayFiscalSetup-1.5.0.exe",
-      "sha256": "50e33206ad6983b929758b317e78c482b4899f05f13abe725b9c437d3ff62ea9",
-      "size": 44815889,
-      "notes": "Facturile PDF ajung singure în SharePoint-ul contabilității (Facturi → Contabilitate…)"
+      "version": "1.5.2",
+      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.5.2/DigirayFiscalSetup-1.5.2.exe",
+      "sha256": "54adb8e7b6e4b7988a50c153efdbadb071b485715b85ad85b7aef24195f97301",
+      "size": 44811423,
+      "notes": "Bonurile cu cantitate mai mare de 1 (ex. Print Film x2) se printează, nu mai sunt respinse. Include trimiterea facturilor în SharePoint (inactivă până la conectare)."
     }
   }
 }
