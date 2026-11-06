@@ -2,11 +2,11 @@
   "product": "BonFiscal",
   "rings": {
     "stable": {
-      "version": "1.5.2",
-      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.5.2/DigirayFiscalSetup-1.5.2.exe",
-      "sha256": "54adb8e7b6e4b7988a50c153efdbadb071b485715b85ad85b7aef24195f97301",
-      "size": 44811423,
-      "notes": "Bonurile cu cantitate mai mare de 1 (ex. Print Film x2) se printează, nu mai sunt respinse. Include trimiterea facturilor în SharePoint (inactivă până la conectare)."
+      "version": "1.6.3",
+      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.6.3/DigirayFiscalSetup-1.6.3.exe",
+      "sha256": "5ff2f6c78e000bbb44d8c1a1087c29a1260ed090324f9beeedc42fdc0b7d373f",
+      "size": 44815508,
+      "notes": "Datele firmei DigiRay precompletate; XML pentru SAGA langa fiecare factura; cheia SharePoint protejata"
     },
     "pilot": {
       "version": "1.6.3",
