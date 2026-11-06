@@ -9,11 +9,11 @@
       "notes": "Bonurile cu cantitate mai mare de 1 (ex. Print Film x2) se printează, nu mai sunt respinse. Include trimiterea facturilor în SharePoint (inactivă până la conectare)."
     },
     "pilot": {
-      "version": "1.6.0",
-      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.6.0/DigirayFiscalSetup-1.6.0.exe",
-      "sha256": "ec0620e3d83f1a3dec6d8b30d8fbe40d58302a27f29ae34ec039d773c5c18f62",
-      "size": 44820398,
-      "notes": "XML pentru SAGA langa fiecare factura, cheia SharePoint protejata, Retrimite tot"
+      "version": "1.6.3",
+      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.6.3/DigirayFiscalSetup-1.6.3.exe",
+      "sha256": "5ff2f6c78e000bbb44d8c1a1087c29a1260ed090324f9beeedc42fdc0b7d373f",
+      "size": 44815508,
+      "notes": "Datele firmei DigiRay precompletate; XML pentru SAGA langa fiecare factura; cheia SharePoint protejata"
     }
   }
 }
