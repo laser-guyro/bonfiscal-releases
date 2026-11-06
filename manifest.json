@@ -2,11 +2,11 @@
   "product": "BonFiscal",
   "rings": {
     "stable": {
-      "version": "1.6.3",
-      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.6.3/DigirayFiscalSetup-1.6.3.exe",
-      "sha256": "5ff2f6c78e000bbb44d8c1a1087c29a1260ed090324f9beeedc42fdc0b7d373f",
-      "size": 44815508,
-      "notes": "Datele firmei DigiRay precompletate; XML pentru SAGA langa fiecare factura; cheia SharePoint protejata"
+      "version": "1.6.4",
+      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.6.4/DigirayFiscalSetup-1.6.4.exe",
+      "sha256": "45a12d6af8c048ca04c26263b332f04d9cf7885279da9f423e50b69a0b7341c5",
+      "size": 44828370,
+      "notes": "Stornare si anulare separate: stornarea nu mai anuleaza factura initiala; buton nou Anuleaza"
     },
     "pilot": {
       "version": "1.6.4",
