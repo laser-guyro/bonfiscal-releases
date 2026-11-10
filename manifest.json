@@ -2,11 +2,11 @@
   "product": "BonFiscal",
   "rings": {
     "stable": {
-      "version": "1.6.5",
-      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.6.5/DigirayFiscalSetup-1.6.5.exe",
-      "sha256": "c105c52e16c44ba43edaf3d31688eb99beb4187471b050d034498b5bfdae7067",
-      "size": 44826741,
-      "notes": "Factura se emite doar in ziua bonului"
+      "version": "1.6.6",
+      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.6.6/DigirayFiscalSetup-1.6.6.exe",
+      "sha256": "5f8b0588c14b0a1555f44d9ad04003e10517dc65efcee7f31e1a37160357cfef",
+      "size": 44822902,
+      "notes": "Instalarea opreste corect serviciul inainte de actualizare"
     },
     "pilot": {
       "version": "1.6.6",
