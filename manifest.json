@@ -2,11 +2,11 @@
   "product": "BonFiscal",
   "rings": {
     "stable": {
-      "version": "1.6.4",
-      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.6.4/DigirayFiscalSetup-1.6.4.exe",
-      "sha256": "45a12d6af8c048ca04c26263b332f04d9cf7885279da9f423e50b69a0b7341c5",
-      "size": 44828370,
-      "notes": "Stornare si anulare separate: stornarea nu mai anuleaza factura initiala; buton nou Anuleaza"
+      "version": "1.6.5",
+      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.6.5/DigirayFiscalSetup-1.6.5.exe",
+      "sha256": "c105c52e16c44ba43edaf3d31688eb99beb4187471b050d034498b5bfdae7067",
+      "size": 44826741,
+      "notes": "Factura se emite doar in ziua bonului"
     },
     "pilot": {
       "version": "1.6.5",
