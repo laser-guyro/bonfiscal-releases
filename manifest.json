@@ -9,11 +9,11 @@
       "notes": "Bon gol ramas deschis dupa lipsa hartie se anuleaza corect"
     },
     "pilot": {
-      "version": "1.6.7",
-      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.6.7/DigirayFiscalSetup-1.6.7.exe",
-      "sha256": "fcf641c1dc60f6369a4ec9c25defd896fe4f92c820c444283f19b04b0a5e98ad",
-      "size": 44837620,
-      "notes": "Bon gol ramas deschis dupa lipsa hartie se anuleaza corect"
+      "version": "1.7.0",
+      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.7.0/DigirayFiscalSetup-1.7.0.exe",
+      "sha256": "d6fcba642f4e0b1e20a9529611ebd6e9fd3d1052fcc0ae54bb3189a6364370f8",
+      "size": 44835085,
+      "notes": "Factura fara bon (gratuitati, voucher optional) in tabul Facturi"
     }
   }
 }
