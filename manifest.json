@@ -9,11 +9,17 @@
       "notes": "Factura fara bon: mai multe vouchere, in lei sau procent. Mentiuni optionale pe facturi."
     },
     "pilot": {
-      "version": "1.7.3",
-      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.7.3/DigirayFiscalSetup-1.7.3.exe",
-      "sha256": "35e2d22579d599a43c1b1932126e54059fa5f82c63d20de72d3bf2bca58b1646",
-      "size": 44831878,
-      "notes": "Factura fara bon: mai multe vouchere, in lei sau procent. Mentiuni optionale pe facturi."
+      "version": "1.7.4",
+      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.7.4/DigirayFiscalSetup-1.7.4.exe",
+      "sha256": "3f60e9031ba06d52ccb448d19763e14e09302ec5fbed981e7adfde366c4722b5",
+      "size": 44842085,
+      "notes": "Programul contabilei: versiunea in titlu, fisierele necitite nu mai opresc cautarea, actualizare automata.",
+      "conta": {
+        "version": "1.7.4",
+        "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.7.4/DigirayFiscalContabilitateSetup-1.7.4.exe",
+        "sha256": "3754e6bbd3933909b4331b05f7bff5270096b24bc55a61ce43c7ccc12b003874",
+        "size": 46690991
+      }
     }
   }
 }
