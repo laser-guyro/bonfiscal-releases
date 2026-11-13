@@ -9,11 +9,11 @@
       "notes": "Admin: factura pentru un bon din alta zi (cu parola)"
     },
     "pilot": {
-      "version": "1.7.1",
-      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.7.1/DigirayFiscalSetup-1.7.1.exe",
-      "sha256": "05b52367572a7b96fad51a784084cfa18f95359df60da9f1350d8c9ecf041f77",
-      "size": 44827141,
-      "notes": "Admin: factura pentru un bon din alta zi (cu parola)"
+      "version": "1.7.2",
+      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.7.2/DigirayFiscalSetup-1.7.2.exe",
+      "sha256": "4c58500a896f7d666c3adf7a8c5dc8435362dd830ce718f9b61391b375521cd5",
+      "size": 44832347,
+      "notes": "Admin: editare factura (numar, data, client)"
     }
   }
 }
