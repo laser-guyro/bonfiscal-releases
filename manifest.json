@@ -9,11 +9,11 @@
       "notes": "Admin: editare factura (numar, data, client)"
     },
     "pilot": {
-      "version": "1.7.2",
-      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.7.2/DigirayFiscalSetup-1.7.2.exe",
-      "sha256": "4c58500a896f7d666c3adf7a8c5dc8435362dd830ce718f9b61391b375521cd5",
-      "size": 44832347,
-      "notes": "Admin: editare factura (numar, data, client)"
+      "version": "1.7.3",
+      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.7.3/DigirayFiscalSetup-1.7.3.exe",
+      "sha256": "35e2d22579d599a43c1b1932126e54059fa5f82c63d20de72d3bf2bca58b1646",
+      "size": 44831878,
+      "notes": "Factura fara bon: mai multe vouchere, in lei sau procent. Mentiuni optionale pe facturi."
     }
   }
 }
