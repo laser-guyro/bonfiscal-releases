@@ -2,16 +2,16 @@
   "product": "BonFiscal",
   "rings": {
     "stable": {
-      "version": "1.7.5",
-      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.7.5/DigirayFiscalSetup-1.7.5.exe",
-      "sha256": "6d5a88a5a26f1efed3eac89ac7c755285d6d4471194dc14de0150137691fd182",
-      "size": 44857172,
-      "notes": "Judet si tara obligatorii pentru persoana fizica pe factura",
+      "version": "1.7.6",
+      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.7.6/DigirayFiscalSetup-1.7.6.exe",
+      "sha256": "e1804ff436f04e0ca7f8943792f7595a48c3f56d151d759a2e965b49b0265b13",
+      "size": 44855357,
+      "notes": "Fereastra se scaleaza corect (200%), vouchere cu cantitate -1, facturi anulate fara plata, bifa OP/transfer bancar",
       "conta": {
-        "version": "1.7.5",
-        "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.7.5/DigirayFiscalContabilitateSetup-1.7.5.exe",
-        "sha256": "b052a801e8d29d12a0dd757e858be98e8629240763392f192c870098d6b3ab33",
-        "size": 46699243
+        "version": "1.7.6",
+        "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.7.6/DigirayFiscalContabilitateSetup-1.7.6.exe",
+        "sha256": "a92c39d6a7617250ff6080c7fd44c9cc411bb3d179eb03cbf2b9eef13a1550de",
+        "size": 46695828
       }
     },
     "pilot": {
