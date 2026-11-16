@@ -15,16 +15,16 @@
       }
     },
     "pilot": {
-      "version": "1.7.6",
-      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.7.6/DigirayFiscalSetup-1.7.6.exe",
-      "sha256": "e1804ff436f04e0ca7f8943792f7595a48c3f56d151d759a2e965b49b0265b13",
-      "size": 44855357,
-      "notes": "Fereastra se scaleaza corect (200%), vouchere cu cantitate -1, facturi anulate fara plata, bifa OP/transfer bancar",
+      "version": "1.8.0",
+      "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.8.0/DigirayFiscalSetup-1.8.0.exe",
+      "sha256": "6fdbab86fb19e307edc735532565369a92988d2073f9c79345b6e7abb9b6ae9e",
+      "size": 44868149,
+      "notes": "Contabilele pot modifica facturile din programul lor; centrul aplica singur modificarea",
       "conta": {
-        "version": "1.7.6",
-        "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.7.6/DigirayFiscalContabilitateSetup-1.7.6.exe",
-        "sha256": "a92c39d6a7617250ff6080c7fd44c9cc411bb3d179eb03cbf2b9eef13a1550de",
-        "size": 46695828
+        "version": "1.8.0",
+        "url": "https://github.com/laser-guyro/bonfiscal-releases/releases/download/v1.8.0/DigirayFiscalContabilitateSetup-1.8.0.exe",
+        "sha256": "110b399cf2f39688de366802539a5cc51122a7dc2b2c57f8009c2f7d125ad473",
+        "size": 46713777
       }
     }
   }
